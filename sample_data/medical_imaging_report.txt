@@ -1,0 +1,18 @@
+CLINICAL REPORT: MRI SCAN OF LOWER EXTREMITIES
+--------------------------------------------------
+PATIENT NAME: Jane Doe
+AGE: 48
+DIAGNOSIS: Type 2 Diabetes mellitus (since 2018), Peripheral Neuropathy.
+DATE OF SCAN: 2026-05-12
+PROCEDURE: MRI Scan of the left foot and ankle with contrast.
+CLINICAL INDICATIONS: Persistent diabetic neuropathy, suspected osteomyelitis.
+
+FINDINGS:
+1. Significant inflammation in the soft tissues of the lower left ankle.
+2. The MRI Scan shows no active signs of osteomyelitis (bone infection) at this time.
+3. Minor neuropathic joint changes consistent with Charcot arthropathy.
+
+INTERPRETATION:
+The MRI Scan findings were analyzed by Dr. Sarah Jenkins. 
+The analysis was processed using the Medical Imaging Pipeline (MIP-v2).
+Dr. Jenkins recommends strict glycemic control and specialized diabetic footwear.

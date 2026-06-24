@@ -1,0 +1,13 @@
+ORGANIZATION REPORT: R&D ENGINEERING PROJECTS
+--------------------------------------------------
+PROJECT: Project Medical Imaging (Code: MIP-v2)
+MISSION: Build next-generation deep learning model pipelines to assist clinical radiologists.
+DEPARTMENT: Applied Medical AI, Biotech Corp.
+
+TEAM ROLES & RESPONSIBILITIES:
+- Marcus Vance: Lead ML Research Engineer. Marcus Vance designed the core convolutional segmentation models used to analyze MRI Scans in MIP-v2.
+- Lisa Chen: Senior Systems Integration Engineer. Lisa Chen handles the integration of clinical DICOM images into the MIP-v2 pipeline.
+- Dr. Sarah Jenkins: Medical Advisor and Consulting Radiologist. Dr. Jenkins validates the algorithmic outputs of Project Medical Imaging against real clinical cases.
+
+LOGISTICS:
+The project is funded by the Biotech Corp Innovations Grant. All development is tracked under the MIP-v2 repository.
