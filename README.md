@@ -3,22 +3,6 @@
 ## Overview
 An AI-powered assistant that combines Graph RAG, vector search, and multimodal reasoning to answer complex queries from documents and web content.
 
-User Query
-    ↓
-LangGraph Agent
-    ↓
-Retriever
- ┌─────────────┬─────────────┐
- ↓             ↓
-Neo4j      ChromaDB
- ↓             ↓
-Context Aggregation
-        ↓
-Groq LLM
-        ↓
-Response where to add
-
-
 ## Features
 - Graph-based knowledge retrieval using Neo4j
 - Vector search with ChromaDB
@@ -37,7 +21,20 @@ Response where to add
 - Groq API
 
 ## Architecture
-(Add architecture image)
+User Query
+    ↓
+LangGraph Agent
+    ↓
+Retriever
+ ┌─────────────┬─────────────┐
+ ↓             ↓
+Neo4j      ChromaDB
+ ↓             ↓
+Context Aggregation
+        ↓
+Groq LLM
+        ↓
+Response where to add
 
 ## Installation
 ...
