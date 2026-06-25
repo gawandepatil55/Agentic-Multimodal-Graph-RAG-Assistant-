@@ -1,4 +1,4 @@
-# Agentic Multimodal Graph-RAG Assistant
+Agentic Multimodal Graph-RAG Assistant
 
 ## Overview
 
