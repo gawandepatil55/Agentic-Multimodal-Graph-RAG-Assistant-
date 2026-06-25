@@ -170,13 +170,14 @@ Agentic-Multimodal-Graph-RAG-Assistant/
 
 ## Future Enhancements
 
-* Multi-document knowledge graph integration
-* Multimodal image understanding
-* Graph visualization dashboard
-* Conversation memory
-* Source citation and explainability
-* Cloud deployment
-* Multi-agent orchestration
+* Multi-document knowledge graph integration for cross-source reasoning
+* Advanced multimodal support for image and document understanding
+* Interactive graph visualization and analytics dashboard
+* Persistent conversation memory for personalized interactions
+* Explainable AI with source attribution and citation tracking
+* Scalable cloud deployment with containerized architecture
+* Multi-agent orchestration for complex task planning and execution
+
 
 ---
 
